@@ -4,61 +4,37 @@
 
 This is the coding portfolio for John Kersey. Hopefully, after looking browsing through this, your company will decide to hire me. 
 
+## Task
+
+As part of this challenge, I was to create a portfolio using only html and css after less than 20 hours of coding experience. The goal of this is to improve it in the future as I develop more projects. 
+
 ## Link to Deployed Application
 
 [Link to Deployed Application](https://johnkersey2.github.io/Portfolio-John-Kersey/)
 
 ## Screenshot
 
-[Screenshot](/assets/images/portfolioincompletescreenshot.PNG)
+[Screenshot](/assets/images/updatedscreenshot.PNG)
 
-## Known Issues
-
-Unreponsive Design
-Flexboxes
-Not all internal links function
-Main link image not large enough
 
 ## Contributors
 
 John Kersey
 
-## Ignore Below
+## Known Issuesss
 
-Acceptance Critera:
-Name
-Photo
-Nav Links to difference section
-About me
-Project Links w/ Images
-Contact
-Responsive Layout
+Not enough applications have been worked on, so only the main application has a working link.
 
-## User Story
+Scaling responsivenesss for contact section starts to breakdown at less than 450 pixels. 
 
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
+## Grading Criteria
+
+I was to include: 
 
 
-## Acceptance Criteria
-
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
-
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+My name and an about me. 
+A contact section and a recent photo (which I put in contact me section).
+A section with links to my work. 
+Nav section that link internall
+Images used for application links / placeholders (main one being larger)
+Responsive layout and semantic elements.

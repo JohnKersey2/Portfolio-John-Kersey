@@ -179,3 +179,20 @@ footer ul li {
     width: auto;
     height: auto;
 }
+
+@media screen and (max-width: 768px) {
+    header nav ul li {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .image400 {
+        height: 300px;
+        width: 300px;
+       }
+
+   footer ul li {
+    display: flex;
+    flex-direction: column;
+} 
+}
