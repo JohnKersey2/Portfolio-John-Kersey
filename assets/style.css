@@ -1,4 +1,28 @@
+body {
+    background-image: linear-gradient(#2138ce, #7886d6);
+}
+
 img {
     height: 200px;
     width: 200px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+header ul {
+    display: flex;
+    font-size: 2rem;
+    list-style-type: none;
+}
+
+header ul li {
+    padding-left: 10px;
 }
