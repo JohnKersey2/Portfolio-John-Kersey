@@ -174,8 +174,8 @@ footer ul li {
 }
 
 #profilePicture {
-    max-width: 120px;
-    max-height: 120px;
+    max-width: 240px;
+    max-height: 240px;
     width: auto;
     height: auto;
 }
