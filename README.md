@@ -1,7 +1,29 @@
 # Portfolio-John-Kersey
 
+## About
 
+This is the coding portfolio for John Kersey. Hopefully, after looking browsing through this, your company will decide to hire me. 
 
+## Link to Deployed Application
+
+[Link to Deployed Application](https://johnkersey2.github.io/Portfolio-John-Kersey/)
+
+## Screenshot
+
+[Screenshot](/assets/images/portfolioincompletescreenshot.PNG)
+
+## Known Issues
+
+Unreponsive Design
+Flexboxes
+Not all internal links function
+Main link image not large enough
+
+## Contributors
+
+John Kersey
+
+## Ignore Below
 
 Acceptance Critera:
 Name

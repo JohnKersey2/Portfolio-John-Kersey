@@ -19,12 +19,15 @@ header {
     display: flex;
     justify-content: space-between;
     margin: 1rem;
+    width: 50%;
 }
 
 header ul {
     display: flex;
+    word-wrap: normal;
     font-size: 2rem;
     list-style-type: none;
+
 }
 
 header ul li {
