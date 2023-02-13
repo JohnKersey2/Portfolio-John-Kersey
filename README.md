@@ -1,6 +1,6 @@
 # Portfolio-John-Kersey
 
-## About
+## Description
 
 This is the coding portfolio for John Kersey. Hopefully, after looking browsing through this, your company will decide to hire me. 
 
@@ -14,7 +14,7 @@ As part of this challenge, I was to create a portfolio using only html and css a
 
 ## Screenshot
 
-[Screenshot](/assets/images/updatedscreenshot.PNG)
+[Screenshot](assets/images/updatedscreenshot.PNG)
 
 
 ## Contributors
