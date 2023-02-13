@@ -14,7 +14,7 @@ As part of this challenge, I was to create a portfolio using only html and css a
 
 ## Screenshot
 
-[Screenshot](assets/images/updatedscreenshot.PNG)
+![Screenshot of application](assets/images/updatedscreenshot.PNG)
 
 
 ## Contributors
